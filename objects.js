@@ -1,1 +1,1 @@
-var playlist = {Ne-yo: 'Closer'};
+var playlist = {Ne-yo: "Closer"};
